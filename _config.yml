@@ -1,0 +1,28 @@
+name: CSPROPS
+favicon: null
+layout_spectrum: 0.6754309392999858
+typography_spectrum: 0.38939671986736357
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.49422373506240547
+  lightness: 0.9343318953178823
+  saturation: 0.07992571406066418
+  rhythmicContrast: 0.7398670844268054
+purpose: []
